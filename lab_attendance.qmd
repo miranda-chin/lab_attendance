@@ -1,6 +1,7 @@
 ---
 title: "lab_attendance"
 format: html
+name: "Miranda Chin"
 ---
 #Something I learned in class is how to create graphs using ggplot.
 #Image is a stream with trees.
